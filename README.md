@@ -6,6 +6,7 @@
 
 This project is a practice that I have followed on this website https://codewithmosh.com/p/the-ultimate-html-css to gain more HTML/CSS knowledge
 to code ever greater projects down the line. Overall, this is just only the front-end template without even functionality or back-end, mainly HTML.
+I also customize some small animations and text compared to the origin.
 
 ## Learning Objectives
 
