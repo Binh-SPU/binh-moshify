@@ -1,0 +1,10 @@
+# Ignore everything in node_modules
+node_modules/*
+dist/*
+.cache/*
+# Except normalize.css directory
+!node_modules/normalize.css
+# Ignore everything inside normalize.css
+node_modules/normalize.css/*
+# But do not ignore specific files inside normalize.css
+!node_modules/normalize.css/normalize.css
